@@ -1,0 +1,390 @@
+[19/10/30 21:27:56] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/10/30 21:27:56] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/10/30 21:27:56] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: no error
+[19/10/30 21:32:56] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/10/30 21:32:56] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/10/30 21:32:56] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/10/30 21:52:59] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/10/30 21:52:59] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 管道正在被关闭。
+
+[19/10/30 21:52:59] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 202) sendWithReconnect: reconnected to seafile cient
+[19/10/30 23:02:17] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/10/30 23:02:17] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 管道正在被关闭。
+
+[19/10/30 23:02:17] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 202) sendWithReconnect: reconnected to seafile cient
+[19/10/30 23:04:41] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/10/30 23:04:41] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 管道正在被关闭。
+
+[19/11/02 10:44:14] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/02 10:44:14] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/02 10:44:14] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/04 21:02:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/04 21:02:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/04 21:02:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/04 22:00:57] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/04 22:00:57] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/04 22:00:57] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/05 21:42:30] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/05 21:42:30] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/05 21:42:30] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/07 21:18:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/07 21:18:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/07 21:18:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/11 21:15:29] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/11 21:15:29] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/11 21:15:29] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/13 22:09:07] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/13 22:09:07] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/13 22:09:07] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/15 20:33:58] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/15 20:33:58] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/15 20:33:58] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/17 14:53:34] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/17 14:53:34] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/17 14:53:34] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/18 22:12:50] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/18 22:12:50] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/18 22:12:50] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/20 21:22:12] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/20 21:22:12] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/20 21:22:12] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/26 22:21:01] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/26 22:21:01] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/26 22:21:01] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/28 20:51:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/28 20:51:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/28 20:51:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/11/28 21:04:04] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/11/28 21:04:04] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/11/28 21:04:04] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/06 20:13:02] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/06 20:13:02] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/06 20:13:02] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/13 20:54:51] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/13 20:54:51] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/13 20:54:51] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/13 20:58:23] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/13 20:58:23] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/13 20:58:23] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/16 21:01:18] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/16 21:01:18] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/16 21:01:18] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: no error
+[19/12/17 22:31:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/17 22:31:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/17 22:31:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/19 22:22:44] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/19 22:22:44] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/19 22:22:44] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/20 22:08:09] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/20 22:08:09] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/20 22:08:09] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/24 22:18:30] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/24 22:18:30] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/24 22:18:30] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/26 07:22:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/26 07:22:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/26 07:22:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/29 10:32:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/29 10:32:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/29 10:32:42] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/29 17:27:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/29 17:27:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/29 17:27:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/29 21:47:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/29 21:47:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/29 21:47:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/30 22:17:21] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/30 22:17:21] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/30 22:17:21] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[19/12/31 20:37:26] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[19/12/31 20:37:26] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[19/12/31 20:37:26] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/01 22:49:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/01 22:49:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/01 22:49:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/03 23:23:12] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/03 23:23:12] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/03 23:23:12] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/05 23:11:24] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/05 23:11:24] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/05 23:11:24] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/06 22:52:13] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/06 22:52:13] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/06 22:52:13] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/07 23:21:47] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/07 23:21:47] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/07 23:21:47] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/09 22:54:26] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/09 22:54:26] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/09 22:54:26] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/13 22:52:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/13 22:52:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/13 22:52:35] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/14 23:10:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/14 23:10:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/14 23:10:25] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/15 22:31:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/15 22:31:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/15 22:31:39] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/19 20:19:37] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/19 20:19:37] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/19 20:19:37] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/29 15:20:15] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/29 15:20:15] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/29 15:20:15] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
+[20/01/29 22:25:24] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/log.cpp(line 38) seaf_ext_log_start: 
+----------------------------------
+log file initialized: 4.1.0 C:/Users/Administrator/seafile_ext.log
+----------------------------------
+
+[20/01/29 22:25:24] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/ext-utils.cpp(line 184) checkLastError: connection broken with error: 管道正在被关闭。
+
+[20/01/29 22:25:24] /C/dev/seafpkg/build/seafile-msi-build/seafile-shell-ext-7.0.2/extensions/applet-connection.cpp(line 143) writeRequest: failed to send command: 当文件已存在时，无法创建该文件。
+
